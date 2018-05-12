@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5419
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Perceval_Graves
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14232#A-Celtic-Psaltery--13-Being-Mainly-Renderings-in-English-Verse-from-Irish--amp--Welsh-Poetry
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
