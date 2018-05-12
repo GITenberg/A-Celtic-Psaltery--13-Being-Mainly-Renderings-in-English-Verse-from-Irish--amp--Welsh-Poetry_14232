@@ -1,0 +1,32 @@
+_repo: A-Celtic-Psaltery--13-Being-Mainly-Renderings-in-English-Verse-from-Irish--amp--Welsh-Poetry_14232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graves, Alfred Perceval
+    alias: Graves, A. P. (Alfred Perceval)
+    birthdate: 1846
+    deathdate: 1931
+    gutenberg_agent_id: '5419'
+    url: http://www.gutenberg.org/2009/agents/5419
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Perceval_Graves
+description: ''
+gutenberg_issued: '2004-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14232'
+  lccn: '18026405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Religious poetry, Celtic'
+- !lcsh 'Irish poetry -- Translations into English'
+- !lcsh 'Welsh poetry -- Translations into English'
+title: "A Celtic Psaltery\r\nBeing Mainly Renderings in English Verse from Irish &\
+  \ Welsh Poetry"
+url: http://www.gutenberg.org/ebooks/14232
